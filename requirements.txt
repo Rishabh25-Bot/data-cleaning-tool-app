@@ -5,4 +5,4 @@ numpy
 matplotlib
 seaborn
 plotly
-pillow>=10.0.0
+
